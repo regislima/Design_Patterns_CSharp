@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{B8328CB4-4C6A-4D4A-BDB2-3E42AD569104}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{D3C09F2C-DA26-44A7-85CD-11EFB5AAD8EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -142,5 +144,17 @@ Global
 		{B8328CB4-4C6A-4D4A-BDB2-3E42AD569104}.Release|x64.Build.0 = Release|Any CPU
 		{B8328CB4-4C6A-4D4A-BDB2-3E42AD569104}.Release|x86.ActiveCfg = Release|Any CPU
 		{B8328CB4-4C6A-4D4A-BDB2-3E42AD569104}.Release|x86.Build.0 = Release|Any CPU
+		{D3C09F2C-DA26-44A7-85CD-11EFB5AAD8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C09F2C-DA26-44A7-85CD-11EFB5AAD8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C09F2C-DA26-44A7-85CD-11EFB5AAD8EF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D3C09F2C-DA26-44A7-85CD-11EFB5AAD8EF}.Debug|x64.Build.0 = Debug|Any CPU
+		{D3C09F2C-DA26-44A7-85CD-11EFB5AAD8EF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D3C09F2C-DA26-44A7-85CD-11EFB5AAD8EF}.Debug|x86.Build.0 = Debug|Any CPU
+		{D3C09F2C-DA26-44A7-85CD-11EFB5AAD8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C09F2C-DA26-44A7-85CD-11EFB5AAD8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3C09F2C-DA26-44A7-85CD-11EFB5AAD8EF}.Release|x64.ActiveCfg = Release|Any CPU
+		{D3C09F2C-DA26-44A7-85CD-11EFB5AAD8EF}.Release|x64.Build.0 = Release|Any CPU
+		{D3C09F2C-DA26-44A7-85CD-11EFB5AAD8EF}.Release|x86.ActiveCfg = Release|Any CPU
+		{D3C09F2C-DA26-44A7-85CD-11EFB5AAD8EF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
