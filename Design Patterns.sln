@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{E1890E88-596F-4B02-8274-F412CE40C4D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{46D68F96-682F-4E68-B02F-6744BA7A64B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,17 @@ Global
 		{E1890E88-596F-4B02-8274-F412CE40C4D5}.Release|x64.Build.0 = Release|Any CPU
 		{E1890E88-596F-4B02-8274-F412CE40C4D5}.Release|x86.ActiveCfg = Release|Any CPU
 		{E1890E88-596F-4B02-8274-F412CE40C4D5}.Release|x86.Build.0 = Release|Any CPU
+		{46D68F96-682F-4E68-B02F-6744BA7A64B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D68F96-682F-4E68-B02F-6744BA7A64B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D68F96-682F-4E68-B02F-6744BA7A64B9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{46D68F96-682F-4E68-B02F-6744BA7A64B9}.Debug|x64.Build.0 = Debug|Any CPU
+		{46D68F96-682F-4E68-B02F-6744BA7A64B9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{46D68F96-682F-4E68-B02F-6744BA7A64B9}.Debug|x86.Build.0 = Debug|Any CPU
+		{46D68F96-682F-4E68-B02F-6744BA7A64B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D68F96-682F-4E68-B02F-6744BA7A64B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D68F96-682F-4E68-B02F-6744BA7A64B9}.Release|x64.ActiveCfg = Release|Any CPU
+		{46D68F96-682F-4E68-B02F-6744BA7A64B9}.Release|x64.Build.0 = Release|Any CPU
+		{46D68F96-682F-4E68-B02F-6744BA7A64B9}.Release|x86.ActiveCfg = Release|Any CPU
+		{46D68F96-682F-4E68-B02F-6744BA7A64B9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
