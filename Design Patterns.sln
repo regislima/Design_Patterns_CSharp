@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{EBFECD67-E969-4CBC-8E88-961F0414B65A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{45AFF465-2C24-43A5-BE60-D42FDCB9C036}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -170,5 +172,17 @@ Global
 		{EBFECD67-E969-4CBC-8E88-961F0414B65A}.Release|x64.Build.0 = Release|Any CPU
 		{EBFECD67-E969-4CBC-8E88-961F0414B65A}.Release|x86.ActiveCfg = Release|Any CPU
 		{EBFECD67-E969-4CBC-8E88-961F0414B65A}.Release|x86.Build.0 = Release|Any CPU
+		{45AFF465-2C24-43A5-BE60-D42FDCB9C036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45AFF465-2C24-43A5-BE60-D42FDCB9C036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45AFF465-2C24-43A5-BE60-D42FDCB9C036}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{45AFF465-2C24-43A5-BE60-D42FDCB9C036}.Debug|x64.Build.0 = Debug|Any CPU
+		{45AFF465-2C24-43A5-BE60-D42FDCB9C036}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{45AFF465-2C24-43A5-BE60-D42FDCB9C036}.Debug|x86.Build.0 = Debug|Any CPU
+		{45AFF465-2C24-43A5-BE60-D42FDCB9C036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45AFF465-2C24-43A5-BE60-D42FDCB9C036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45AFF465-2C24-43A5-BE60-D42FDCB9C036}.Release|x64.ActiveCfg = Release|Any CPU
+		{45AFF465-2C24-43A5-BE60-D42FDCB9C036}.Release|x64.Build.0 = Release|Any CPU
+		{45AFF465-2C24-43A5-BE60-D42FDCB9C036}.Release|x86.ActiveCfg = Release|Any CPU
+		{45AFF465-2C24-43A5-BE60-D42FDCB9C036}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
