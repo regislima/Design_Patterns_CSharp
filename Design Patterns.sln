@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template Method", "Template
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{D1A08F99-96CD-4505-9875-B06C50E114D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{EACE01D2-00D7-4A58-91CC-97D4E8013210}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -212,5 +214,17 @@ Global
 		{D1A08F99-96CD-4505-9875-B06C50E114D4}.Release|x64.Build.0 = Release|Any CPU
 		{D1A08F99-96CD-4505-9875-B06C50E114D4}.Release|x86.ActiveCfg = Release|Any CPU
 		{D1A08F99-96CD-4505-9875-B06C50E114D4}.Release|x86.Build.0 = Release|Any CPU
+		{EACE01D2-00D7-4A58-91CC-97D4E8013210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACE01D2-00D7-4A58-91CC-97D4E8013210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACE01D2-00D7-4A58-91CC-97D4E8013210}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EACE01D2-00D7-4A58-91CC-97D4E8013210}.Debug|x64.Build.0 = Debug|Any CPU
+		{EACE01D2-00D7-4A58-91CC-97D4E8013210}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EACE01D2-00D7-4A58-91CC-97D4E8013210}.Debug|x86.Build.0 = Debug|Any CPU
+		{EACE01D2-00D7-4A58-91CC-97D4E8013210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACE01D2-00D7-4A58-91CC-97D4E8013210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EACE01D2-00D7-4A58-91CC-97D4E8013210}.Release|x64.ActiveCfg = Release|Any CPU
+		{EACE01D2-00D7-4A58-91CC-97D4E8013210}.Release|x64.Build.0 = Release|Any CPU
+		{EACE01D2-00D7-4A58-91CC-97D4E8013210}.Release|x86.ActiveCfg = Release|Any CPU
+		{EACE01D2-00D7-4A58-91CC-97D4E8013210}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
