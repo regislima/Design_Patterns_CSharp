@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{EACE01D2-00D7-4A58-91CC-97D4E8013210}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{4917980E-A392-48F6-9B70-0FEB0C351263}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -226,5 +228,17 @@ Global
 		{EACE01D2-00D7-4A58-91CC-97D4E8013210}.Release|x64.Build.0 = Release|Any CPU
 		{EACE01D2-00D7-4A58-91CC-97D4E8013210}.Release|x86.ActiveCfg = Release|Any CPU
 		{EACE01D2-00D7-4A58-91CC-97D4E8013210}.Release|x86.Build.0 = Release|Any CPU
+		{4917980E-A392-48F6-9B70-0FEB0C351263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4917980E-A392-48F6-9B70-0FEB0C351263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4917980E-A392-48F6-9B70-0FEB0C351263}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4917980E-A392-48F6-9B70-0FEB0C351263}.Debug|x64.Build.0 = Debug|Any CPU
+		{4917980E-A392-48F6-9B70-0FEB0C351263}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4917980E-A392-48F6-9B70-0FEB0C351263}.Debug|x86.Build.0 = Debug|Any CPU
+		{4917980E-A392-48F6-9B70-0FEB0C351263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4917980E-A392-48F6-9B70-0FEB0C351263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4917980E-A392-48F6-9B70-0FEB0C351263}.Release|x64.ActiveCfg = Release|Any CPU
+		{4917980E-A392-48F6-9B70-0FEB0C351263}.Release|x64.Build.0 = Release|Any CPU
+		{4917980E-A392-48F6-9B70-0FEB0C351263}.Release|x86.ActiveCfg = Release|Any CPU
+		{4917980E-A392-48F6-9B70-0FEB0C351263}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
